@@ -1,0 +1,36 @@
+p {
+    font-size: 30px;
+    color: chocolate;
+}
+
+a {
+    font-size: 20px;
+}
+
+.caption{
+    color:blue;
+}
+
+#foot {
+    color: gray;
+    width: 300px;
+    }
+*{
+    background-color: blanchedalmond;
+}
+
+h2, h3{
+    color: rgb(0, 0, 128);
+}
+
+input {
+    border: 2px solid blue;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+img{
+    width: 200px;
+    
+}
